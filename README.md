@@ -1,7 +1,5 @@
 # LibreCompilator
 
-# LibreCompilator
-
 A simple, educational compiler written in C++ that demonstrates the core phases of compilation: lexical analysis, parsing, semantic analysis, and code generation.
 
 ## Features
