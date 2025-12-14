@@ -16,26 +16,21 @@ A simple, educational compiler written in C++ that demonstrates the core phases 
 ```
 LibreCompilator/
 ├── src/
-│   ├── main.cpp              # Entry point
-│   ├── lexer/
-│   │   ├── lexer.h
-│   │   └── lexer.cpp
-│   ├── parser/
-│   │   ├── parser.h
-│   │   ├── parser.cpp
-│   │   ├── ast.h
-│   │   └── ast.cpp
-│   ├── semantic/
-│   │   ├── semantic.h
-│   │   └── semantic.cpp
-│   └── codegen/
-│       ├── codegen.h
-│       └── codegen.cpp
-├── include/
-│   └── common.h
-├── examples/
-│   └── sample.lc
+│   ├── arena.hpp
+│   ├── generation.hpp
+│   ├── main.cpp
+│   ├── parser.hpp
+│   ├── tokenization.hpp
+│
+├── docs/
+│   ├── gammar.md
+│
 ├── CMakeLists.txt
+├── .clang-format
+├── .gitattributes
+├── .gitignore
+├── test.hy
+├── LICENSE.md
 └── README.md
 ```
 
