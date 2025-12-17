@@ -48,6 +48,6 @@ Credits go out to Pixeled. Without him this <b>wouldn't be possible.</b>
 <br>
 "[Pixeled's Channel](https://www.youtube.com/@pixeled-yt)"
 
-## License
+## License 
 
 MIT License - feel free to use this project for educational purposes.
